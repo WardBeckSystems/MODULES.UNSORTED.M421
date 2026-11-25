@@ -1,5 +1,5 @@
 # 1969 - M421 - DOC - BLACK ANODIZED FINISHI SICVER LETTERS.png
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** 1969 (found in this ad: "DATE SEPT 69")
@@ -66,7 +66,7 @@ FJ {
 
 ```json
 {
- "file": "Modules/UNSORTED/M421/1969 - M421 - DOC - BLACK ANODIZED FINISHI SICVER LETTERS.png",
+ "file": "Modules/UNSORTED/M421/MANUALS/1969 - M421 - DOC - BLACK ANODIZED FINISHI SICVER LETTERS.png",
  "sha256": "fa6ddbc904dd5fd3fc46073c185949b1234c8d70cfc67d3abdba61990ce6ff89",
  "kind": "doc",
  "models": [
