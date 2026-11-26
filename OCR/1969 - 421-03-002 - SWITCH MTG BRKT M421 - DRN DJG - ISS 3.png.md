@@ -38,7 +38,7 @@ Wiki page: [M421](../../../../PAGES/M421.md)
 - **Words (OCR):** 59 in 46 lines: ISSUE · 2-S6UNC · Holes · Now 4ore · DJG · 0c169 · 174 · 2.438 · 1HOLE · SQUAre · CORNers · DIA
 - **Title block:** (175, 22)–(409, 284) mm: ISSUE · 2-S6UNC · Holes · DJG · 2.438 · 1HOLE · DIA · 32 · 2HoLEs DIA · 32 · HOLES DRILL 8 TAP ?-S56UNC(2EACH Sipe) · 3/8 · Note · DIMENSIoNS · SYMMETR ICAL ABout · L's UNLESS STATED · DRN · DJG · FIN
 
-Every curve, box, word and wire group: [1969 - 421-03-002 - SWITCH MTG BRKT M421 - DRN DJG - ISS 3 (traced).json](../MECHANICAL/1969%20-%20421-03-002%20-%20SWITCH%20MTG%20BRKT%20M421%20-%20DRN%20DJG%20-%20ISS%203%20(traced).json) (the CAD file: `1969 - 421-03-002 - SWITCH MTG BRKT M421 - DRN DJG - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1969 - 421-03-002 - SWITCH MTG BRKT M421 - DRN DJG - ISS 3 (traced).json](../MECHANICAL/1969%20-%20421-03-002%20-%20SWITCH%20MTG%20BRKT%20M421%20-%20DRN%20DJG%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1969 - 421-03-002 - SWITCH MTG BRKT M421 - DRN DJG - ISS 3 (traced).dxf`).
 
 ## Full text
 
