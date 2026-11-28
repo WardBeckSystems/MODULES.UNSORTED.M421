@@ -1,5 +1,5 @@
 # 1969 - 421-03-002 - SWITCH MTG BRKT M421 - DRN DJG - ISS 3.png
-Wiki page: [M421](../../../../PAGES/M421.md)
+Wiki page: [M421](../)
 
 
 - **Year:** 1969 (title block date)

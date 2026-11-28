@@ -1,6 +1,6 @@
 # M421 · Unsorted
 
-Ward-Beck Systems M421, 1969|2. Wiki page: [M421 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M421.html)
+Ward-Beck Systems M421, 1969|2. Wiki page: [M421 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M421/)
 
 | Folder | What is in it | Files |
 |---|---|---|
