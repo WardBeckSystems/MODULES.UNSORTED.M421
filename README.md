@@ -19,6 +19,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Not on Google Drive yet: `1969 - 421-03-002 - SWITCH MTG BRKT M421 - DRN DJG - ISS 3.png`
 
+## 3-D model
+
+[`MECHANICAL/M421.stl`](MECHANICAL/M421.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M421)
+
+- **Size:** 51.82 × 259.08 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 1 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M421 - front panel.svg`)
+- the drawn panel is 0.25 wide to high, the size 0.20: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M421.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Manuals and documents
 
 _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ads and other document scans._
